@@ -13,7 +13,7 @@ This repository contains a production-ready data pipeline designed to transform 
 * **Anomaly Detection:** Integrated `Isolation Forest` (Scikit-Learn) to flag statistically significant outliers for internal audit review.
 
 ## 🎥 Visual Demonstration
-![Pipeline Workflow & Analytics](images/demo.gif)
+![Pipeline Workflow & Analytics](images/potential_misclassified_found_per_year.png)
 *The GIF above demonstrates the pipeline processing 36,000+ records and generating automated spend distribution charts.*
 
 ## 🛠️ Technical Workflow
