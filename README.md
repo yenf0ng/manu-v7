@@ -14,12 +14,15 @@ This repository contains a production-ready data pipeline designed to transform 
 
 ## 🎥 Visual Demonstration
 ![Pipeline Workflow & Analytics](images/rows.png)
+
 *The Image above demonstrates the pipeline processing 36,000+ records and generating automated spend distribution charts.*
 
-(images/spending_trend.png)
+!(images/spending_trend.png)
+
 *Monthly Spending Trend & Total Annual Spend*
 
-(images/potential_misclassified_found_per_year.png)
+!(images/potential_misclassified_found_per_year.png)
+
 *Potential Misclassifications Found per Year.*
 
 ## 🛠️ Technical Workflow
